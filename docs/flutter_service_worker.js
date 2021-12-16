@@ -39,14 +39,14 @@ const RESOURCES = {
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"main.dart.js": "47a395dee50f64ac618c36dd2f4ad50e",
+"main.dart.js": "5917ed37d5076433f102b1308725178b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "canvaskit/canvaskit.wasm": "04ed3c745ff1dee16504be01f9623498",
-"index.html": "9cc2a8921e99ae0393f2b64239eae629",
-"/": "9cc2a8921e99ae0393f2b64239eae629",
+"index.html": "9483a3d783260bc9dfcc6871b9cea851",
+"/": "9483a3d783260bc9dfcc6871b9cea851",
 ".vscode/settings.json": "2b84816b132d30639f4755a21e57daea"
 };
 
